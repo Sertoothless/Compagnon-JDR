@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioButton
+        android:id="@+id/radioButtonHM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hors Monde" />
+
+    <RadioButton
+        android:id="@+id/radioButtonMI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Monde Imperial" />
+
+    <RadioButton
+        android:id="@+id/radioButtonMR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Monde Ruche" />
+
+    <RadioButton
+        android:id="@+id/radioButtonMS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Monde Sauvage" />
+
+    <RadioButton
+        android:id="@+id/radioButtonEP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Esprit Purifié" />
+
+    <RadioButton
+        android:id="@+id/radioButtonMF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Monde Forge" />
+
+    <RadioButton
+        android:id="@+id/radioButtonN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Noblesse" />
+
+    <RadioButton
+        android:id="@+id/radioButtonSP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Schola Progenium" />
+
+    <RadioButton
+        android:id="@+id/radioButtonMC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Monde Chapelle" />
+
+    <RadioButton
+        android:id="@+id/radioButtonPF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Protégé du Famulus" />
+
+    <RadioButton
+        android:id="@+id/radioButtonEM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Education Monastique" />
+</LinearLayout>
